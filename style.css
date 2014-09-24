@@ -1,6 +1,19 @@
 body
 {
 background-color :black;
+background-image: url("argyle.png");
+text-align: center;
+}
+h1
+{
+text-align: center;
+font-size: 80px;
 font-family :Kristen ITC;
 color :yellow;
+}
+
+h3
+{
+font-family :Comic Sans MS;
+color :white;
 }
